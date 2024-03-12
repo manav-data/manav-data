@@ -11,6 +11,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-F2C811?style=for-the-badge&tableau&logoColor=white) ![minitab](https://img.shields.io/badge/minitab-F2C811?style=for-the-badge&minitab&logoColor=blue) ![Excel](https://img.shields.io/badge/excel-F2C811?style=for-the-badge&logo=excel&logoColor=white) 
 <!--Database-->
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=sql&logoColor=white) ![Db2](https://img.shields.io/badge/ibm%20db2-470137?style=for-the-badge&logo=ibm%20db2&logoColor=#FF61F6) 
+<!-- Other software--->
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 
 ---
 # 🧑‍💻 Curious explorer of coding realms.:
