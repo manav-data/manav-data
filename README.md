@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
+<img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" height= "400" width="400"> 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Data-manavpatil&theme=radical&hide_border=false)<br/>
 
