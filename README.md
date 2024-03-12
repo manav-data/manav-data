@@ -8,7 +8,7 @@
 <!--Programming Languages -->
 
 <!--Visualisation and analysis -->
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-F2C811?style=for-the-badge&tableau&logoColor=black) ![minitab](https://img.shields.io/badge/minitab-F2C811?style=for-the-badge&minitab&logoColor=blue) ![Excel](https://img.shields.io/badge/excel-F2C811?style=for-the-badge&logo=excel&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-F2C811?style=for-the-badge&tableau&logoColor=white) ![minitab](https://img.shields.io/badge/minitab-F2C811?style=for-the-badge&minitab&logoColor=blue) ![Excel](https://img.shields.io/badge/excel-F2C811?style=for-the-badge&logo=excel&logoColor=white) 
 
 
 
