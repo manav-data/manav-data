@@ -4,9 +4,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Data-manavpatil&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=Data-manavpatil&theme=radical&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
