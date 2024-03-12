@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src= https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif>
+<img src=https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA.gif>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
