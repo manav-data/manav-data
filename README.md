@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### Hi there! 👋 Welcome to my profile."
 <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" height= "200" width="400"> 
 
+---
 # 🧑‍💻 Curious explorer of coding realms.:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
