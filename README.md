@@ -34,8 +34,3 @@
 [![](https://visitcount.itsvg.in/api?id=data-manavpatil&icon=1&color=4)](https://visitcount.itsvg.in)
 
 ---
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-
