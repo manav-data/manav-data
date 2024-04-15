@@ -33,21 +33,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=data-Manavpatil&theme=dark&hide_border=false)
-
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=data-manavpatil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=data-Manavpatil&theme=dark&hide_border=false)
+
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=data-Manavpatil&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=data-manavpatil&icon=1&color=4)](https://visitcount.itsvg.in)
