@@ -6,6 +6,12 @@
 🔭 I’m currently working on data Analytics and Front-End Development<br>🤝 I’m looking for help with: Machine Learning, React<br>🌱 I’m currently learning : Big Data<br>💬 Ask me about: javascript, jQuery,Bootstrap, Python, SQL<br>⚡ Fun fact "In my B.Sc. first year, I'm diving into data analytics and front-end development. It's like decoding mysteries and crafting digital experiences at the same time!"
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavpatil) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/manavpatil-74) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/data-manavpatil) 
+
+---
 # 💻 Tech Stack:
 <!--web development -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![jQuery](https://img.shields.io/badge/jQuery-%23323330.svg?style=for-the-badge&logo=jQuery&logoColor=blue)  ![bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=blue) 
@@ -23,10 +29,6 @@
 ---
 # 🧑‍💻 Curious explorer of coding realms.:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavpatil) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/manavpatil-74) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/data-manavpatil) 
 
 ---
 # 📊 GitHub Stats:
