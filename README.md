@@ -1,6 +1,7 @@
 ### Hi there! 👋 Welcome to my profile."
 <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" height= "420" width="1000"> 
 
+
 ---
 # 💻 Tech Stack:
 <!--web development -->
@@ -20,6 +21,12 @@
 # 🧑‍💻 Curious explorer of coding realms.:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavpatil) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/manavpatil-74) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/data-manavpatil) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=data-Manavpatil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=data-manavpatil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
