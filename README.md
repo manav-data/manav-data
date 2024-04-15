@@ -25,12 +25,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-manavpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavpatil) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/manavpatil-74) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/data-manavpatil) 
+
+---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=data-Manavpatil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=data-Manavpatil&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-Manavpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
