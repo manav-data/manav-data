@@ -30,7 +30,7 @@
 
 ----
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=data-manavpatil&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=data-Manavpatil&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=data-manavpatil&icon=1&color=4)](https://visitcount.itsvg.in)
