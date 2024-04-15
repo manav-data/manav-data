@@ -11,7 +11,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Manav-Patil-74) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/data_manavpatil) 
 [![Blog](https://img.shields.io/badge/blogger-orange.svg?logo=Blogger&logoColor=orange)](https://data-manavpatil.blogspot.com/)
-[![Portfolio](https://img.shields.io/badge/googlesites-blue.svg?logo=googlesites&logoColor=Blue)](https://data-manavpatil.blogspot.com/)
+[![Portfolio](https://img.shields.io/badge/googlesites-blue.svg?logo=googlesites&logoColor=Blue)](https://sites.google.com/view/data-manavpatil/)
 
 ---
 # 💻 Tech Stack:
