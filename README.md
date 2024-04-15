@@ -1,6 +1,9 @@
 ### Hi there! 👋 Welcome to my profile."
 <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" height= "420" width="1000"> 
 
+# 💫 About Me:
+🔭 I’m currently working on data Analytics and Front-End Development<br>🤝 I’m looking for help with: Machine Learning, React<br>🌱 I’m currently learning : Big Data<br>💬 Ask me about: javascript, jQuery,Bootstrap, Python, SQL<br>⚡ Fun fact "In my B.Sc. first year, I'm diving into data analytics and front-end development. It's like decoding mysteries and crafting digital experiences at the same time!"
+
 
 ---
 # 💻 Tech Stack:
