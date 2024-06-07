@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on data Analytics and Front-End Development<br>🤝 I’m looking for help with: Machine Learning, React<br>🌱 I’m currently learning : Big Data<br>💬 Ask me about: javascript, jQuery,Bootstrap, Python, SQL<br>⚡ Fun fact "In my B.Sc. first year, I'm diving into data analytics and front-end development. It's like decoding mysteries and crafting digital experiences at the same time!"
+🔭 I’m currently working on python <br>🤝 I’m looking for help with: Machine Learning, React<br>🌱 I’m currently learning : data Analytics and Front-End Development <br>💬 Ask me about: javascript, jQuery,Bootstrap, Python, SQL<br>⚡ Fun fact "In my B.Sc. first year, I'm diving into data analytics and front-end development. It's like decoding mysteries and crafting digital experiences at the same time!"
 
 ---
 ## 🌐 Socials:
