@@ -29,10 +29,11 @@
 ---
 
 # 🌟 Languages I Speak 🌟
-English – "Dream big, achieve more!" 🌍✨,
-Spanish – "¡Vive la vida con pasión!" 💃🎶,
-Hindi – "कुछ नया सीखो, हर दिन बढ़ो।" 🕉️✨,
-Marathi – "ज्ञान ही शक्ती आहे!" 🏞️🌺
+
+**English** – "Dream big, achieve more!" 🌍✨  
+**Spanish** – "¡Vive la vida con pasión!" 💃🎶 *(Live life with passion!)*  
+**Hindi** – "कुछ नया सीखो, हर दिन बढ़ो।" 🕉️✨ *(Learn something new, grow every day.)*  
+**Marathi** – "ज्ञान ही शक्ती आहे!" 🏞️🌺 *(Knowledge is power!)*  
 
 ---
 
