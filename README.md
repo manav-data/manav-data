@@ -29,7 +29,7 @@
 ---
 
 # 🗣️Languages I can Speak.:
-English   |   Spanish   |    Hindi   |    Marathi
+🇬🇧 English   |   Spanish   |    Hindi   |    Marathi
 
 ---
 
