@@ -31,7 +31,7 @@
 # 🌟 Languages I Speak 🌟
 
 **English** – "Dream big, achieve more!" 🌍✨  
-**Spanish** – "¡Vive la vida con pasión!" 💃🎶 
+**Spanish** – "¡Vive la vida con pasión!" 💃🎶  
 **Hindi** – "कुछ नया सीखो, हर दिन बढ़ो।" 🕉️✨  
 **Marathi** – "ज्ञान ही शक्ती आहे!" 🏞️🌺
 
