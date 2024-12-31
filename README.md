@@ -29,7 +29,7 @@
 ---
 
 # 🗣️Languages I can Speak.:
-![English](https://www.google.com/imgres?q=england%20flag&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fa%2Fa5%2FFlag_of_the_United_Kingdom_%25281-2%2529.svg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlag_of_the_United_Kingdom&docid=tnCmFGNKCq54gM&tbnid=eNS_ImQ1CuCoIM&vet=12ahUKEwj1-8jjiNKKAxUNVWwGHR3NGRIQM3oECGQQAA..i&w=1200&h=600&hcb=2&ved=2ahUKEwj1-8jjiNKKAxUNVWwGHR3NGRIQM3oECGQQAA)
+![English]   |   ![Spanish]    |    ![Hindi]    |    ![Marathi]
 
 ---
 
