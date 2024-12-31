@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on python <br>🤝 I’m looking for help with: Deep Learning<br>🌱 I’m currently learning : Machine Learning and MongoDB <br>💬 Ask me about: javascript, Python, SQL, data Analytics <br>⚡ Fun fact "In my B.Sc. first year, I'm diving into data analytics. It's like decoding mysteries and crafting digital experiences at the same time!"
+🔭 I’m currently working on Data Science & Analytics <br>🤝 I’m looking for help with: DSA <br>🌱 I’m currently learning : Big Data <br>💬 Ask me about: javascript, Python, SQL, data Analytics, Digital Marketing,  <br>⚡ Fun fact "In my B.Sc. Second year, I'm diving into data Science & analytics. It's like decoding mysteries and crafting digital experiences at the same time!"
 
 ---
 ## 🌐 Socials:
