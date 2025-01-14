@@ -6,12 +6,6 @@
 🔭 I’m currently working on Data Science & Analytics <br>🤝 I’m looking for help with: DSA <br>🌱 I’m currently learning : Big Data <br>💬 Ask me about: javascript, Python, SQL, data Analytics, Digital Marketing,  <br>⚡ Fun fact "In my B.Sc. Second year, I'm diving into data Science & analytics. It's like decoding mysteries and crafting digital experiences at the same time!"
 
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavpatil) 
-[![Blog](https://img.shields.io/badge/blogger-orange.svg?logo=Blogger&logoColor=white)](https://data-manavpatil.blogspot.com/)
-[![Portfolio](https://img.shields.io/badge/MyPortfolio-%230077B5.svg?logo=myportfolio&logoColor=white)](https://sites.google.com/view/manavpatil/)
-
----
 # 💻 Tech Stack:
 <!--web development -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![jQuery](https://img.shields.io/badge/jQuery-%23323330.svg?style=for-the-badge&logo=jQuery&logoColor=blue)  ![bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=blue) 
