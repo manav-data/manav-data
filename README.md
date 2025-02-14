@@ -22,12 +22,19 @@
 
 ---
 
-# 🌟 Languages I Speak 🌟
+# 🌟 Languages I Speak 🌟  
 
 **English** – "Dream big, achieve more!" 🌍✨  
-**Spanish** – "¡Vive la vida con pasión!" 💃🎶  
+
+**Mandarin (Chinese)** – "学习如逆水行舟，不进则退。" (Xuéxí rú nìshuǐ xíngzhōu, bù jìn zé tuì.) 🚀📖  
+
 **Hindi** – "कुछ नया सीखो, हर दिन बढ़ो।" 🕉️✨  
-**Marathi** – "ज्ञान ही शक्ती आहे!" 🏞️🌺
+
+**Spanish** – "¡Vive la vida con pasión!" 💃🎶  
+
+**Portuguese** – "Aprenda algo novo todos os dias!" 🌊📚  
+
+**Marathi** – "ज्ञान ही शक्ती आहे!" 🏞️🌺  
 
 ---
 
