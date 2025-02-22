@@ -36,19 +36,20 @@ Microsoft is offering free online training in GitHub, cybersecurity, and Azure. 
 
 ---
 
-# 🌟 Languages I Speak 🌟  
+# Languages I Speak
 
-**English** – "Dream big, achieve more!" 🌍✨  
+**English** – Fluent
 
-**Mandarin (Chinese)** – "学习如逆水行舟，不进则退。" (Xuéxí rú nìshuǐ xíngzhōu, bù jìn zé tuì.) 🚀📖  
+**Mandarin (Chinese)** – Beginner
 
-**Hindi** – "कुछ नया सीखो, हर दिन बढ़ो।" 🕉️✨  
+**Hindi** – Native
 
-**Spanish** – "¡Vive la vida con pasión!" 💃🎶  
+**Spanish** – Intermediate
 
-**Portuguese** – "Aprenda algo novo todos os dias!" 🌊📚  
+**Portuguese** – Intermediate
 
-**Marathi** – "ज्ञान ही शक्ती आहे!" 🏞️🌺  
+**Marathi** – Native
+
 
 ---
 
