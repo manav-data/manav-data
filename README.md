@@ -1,3 +1,17 @@
+🚀 Boost Your Tech Skills with Free Microsoft Training!
+
+Microsoft is offering free online training in GitHub, cybersecurity, and Azure. Don't miss this chance to level up your skills!
+
+📚 Learning Plans:
+🔹 GitHub & GitHub Copilot – https://learn.microsoft.com/en-us/plans/8pkkiy5xgxnpmw?tab=tab-created&learnerGroupId=c5ed7de0-f5e6-48f0-870c-d0065afbc8be&wt.mc_id=studentamb_453617
+🔹 Security, Compliance & Identity – https://learn.microsoft.com/en-us/plans/gm88tr6o5y5zyk?learnerGroupId=94d0a14d-1552-4dfa-9238-cafd008c427b&wt.mc_id=studentamb_453617
+🔹 Azure Data Fundamentals – https://learn.microsoft.com/en-us/plans/8pkkiy5xgxnpmw?tab=tab-created&learnerGroupId=c5ed7de0-f5e6-48f0-870c-d0065afbc8be&wt.mc_id=studentamb_453617
+
+💡 Start learning today & build your future! 🚀
+
+#Microsoft #GitHub #FreeTraining #TechSkills #Azure #Cybersecurity
+
+
 ### Hi there! 👋 Welcome to my profile."
 <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" height= "420" width="1000"> 
 
