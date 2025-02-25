@@ -1,3 +1,18 @@
+## Free Training Plans by Microsoft
+🔹 GitHub & GitHub Copilot (8 modules) – Learn version control and AI-powered coding.
+👉 https://lnkd.in/dtZqcE8E
+
+🔹 Microsoft Security, Compliance, and Identity Fundamentals (11 modules) – Gain foundational cybersecurity knowledge.
+👉 https://lnkd.in/dzUVif5S
+
+🔹 Azure Data Fundamentals (9 modules) – Explore key concepts in cloud data management.
+👉 https://lnkd.in/d5GMmr5s
+
+🔹 Explore AI (1 module) – Get started with artificial intelligence fundamentals.
+👉 https://lnkd.in/dUyhfWXZ
+
+----
+
 ### Hi there! 👋 Welcome to my profile."
 <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" height= "420" width="1000"> 
 
