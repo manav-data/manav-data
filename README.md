@@ -5,7 +5,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on Data Science & Full stack development <br>🤝 I’m looking for help with: DSA & Cybersecurity <br>🌱 I’m currently learning : Big Data & Backend Development <br>💬 Ask me about: Frontend Development, Python, SQL, NoSQL, data Analytics, Digital Marketing, Cybersecurity Analytics. <br>⚡ Fun fact:  I speak 7 languages, and 5 of them are some of the most spoken in the world! 🌍 So, no matter what language you throw at me, we’re good to go! 😎💬
+🔭 Currently focused on Data Science, Data Analytics & Cybersecurity projects <br> 🤝 Seeking mentorship and collaboration in Business Analytics & Cybersecurity <br>🌱 Actively learning Big Data, Cloud Computing & Advanced Analytics <br>💬 Ask me about: Python, SQL, Data Analytics, Digital Marketing, Cybersecurity Analytics. <br>⚡ Fun fact: I speak 7 languages, including some of the world’s most spoken ones! <br> 🌍 Ready to connect and collaborate across cultures! 😎
 
 ---
 
